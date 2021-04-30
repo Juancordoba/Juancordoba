@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![image](https://user-images.githubusercontent.com/13071942/116709029-aa31fc80-a9a6-11eb-85b9-5378cd247d52.png)
+![image](https://user-images.githubusercontent.com/13071942/116709257-e2393f80-a9a6-11eb-83ba-bc3d8af49987.png)
 
 <!--
 **Juancordoba/Juancordoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
