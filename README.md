@@ -9,6 +9,10 @@
 
 
 ![image](https://user-images.githubusercontent.com/13071942/116709488-190f5580-a9a7-11eb-9047-fcc4398a4578.png)
+![image](https://user-images.githubusercontent.com/13071942/116710158-d13cfe00-a9a7-11eb-96c9-ce5ce9fb25e7.png)
+
+![image](https://user-images.githubusercontent.com/13071942/116710179-d8640c00-a9a7-11eb-85c5-05264336cd73.png)
+![image](https://user-images.githubusercontent.com/13071942/116710202-def28380-a9a7-11eb-9725-8201f89bb3a7.png)
 
 <!--
 **Juancordoba/Juancordoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
