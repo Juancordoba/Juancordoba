@@ -8,10 +8,11 @@ Mi nombre es Juan Córdoba, soy desarrollador Full Stack, Soy un apasionado de l
 ![image](https://user-images.githubusercontent.com/13071942/116709257-e2393f80-a9a6-11eb-83ba-bc3d8af49987.png)
 ![image](https://user-images.githubusercontent.com/13071942/116709980-9f2b9c00-a9a7-11eb-803e-0d34e8c27be1.png)
 ![image](https://user-images.githubusercontent.com/13071942/116720413-8b396780-a9b2-11eb-97f4-078af0237dde.png)
-![image](https://user-images.githubusercontent.com/13071942/116722452-c76dc780-a9b4-11eb-8fe2-d1460b8c40a3.png)
+
 
 ![image](https://user-images.githubusercontent.com/13071942/116710028-ae124e80-a9a7-11eb-8479-389e5b2b5837.png)
 ![image](https://user-images.githubusercontent.com/13071942/116710056-b66a8980-a9a7-11eb-952b-f5663042749a.png)
+![image](https://user-images.githubusercontent.com/13071942/116722452-c76dc780-a9b4-11eb-8fe2-d1460b8c40a3.png)
 
 ![image](https://user-images.githubusercontent.com/13071942/116709488-190f5580-a9a7-11eb-9047-fcc4398a4578.png)
 ![image](https://user-images.githubusercontent.com/13071942/116710158-d13cfe00-a9a7-11eb-96c9-ce5ce9fb25e7.png)
