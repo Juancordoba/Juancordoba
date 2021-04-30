@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Mi nombre es Juan Córdoba, soy desarrollador Full Stack
 
 ![image](https://user-images.githubusercontent.com/13071942/116709029-aa31fc80-a9a6-11eb-85b9-5378cd247d52.png)
 ![image](https://user-images.githubusercontent.com/13071942/116709257-e2393f80-a9a6-11eb-83ba-bc3d8af49987.png)
+
+![image](https://user-images.githubusercontent.com/13071942/116709488-190f5580-a9a7-11eb-9047-fcc4398a4578.png)
 
 <!--
 **Juancordoba/Juancordoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
