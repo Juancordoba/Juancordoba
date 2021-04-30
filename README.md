@@ -1,4 +1,6 @@
-### Hi there 👋 Mi nombre es Juan Córdoba, soy desarrollador Full Stack, Soy un apasionado de las nuevas tecnologias y siempre intento aprender cosas nuevas
+### Hi there 👋 
+
+Mi nombre es Juan Córdoba, soy desarrollador Full Stack, Soy un apasionado de las nuevas tecnologias y me gusta aprender cosas nuevas siempre. 
 
 
 
